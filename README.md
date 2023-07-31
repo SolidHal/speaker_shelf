@@ -6,6 +6,6 @@ Printed in 3 parts:
 2) the rectangular top section
 3) the cleat which screws into the wall
 
-[Front](photos/front.jpeg)
+![Front](photos/front.jpeg)
 
-[Side](photos/side.jpeg)
+![Side](photos/side.jpeg)
